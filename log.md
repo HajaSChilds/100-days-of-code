@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 2: April 22, 2020
+
+**Today's Progress**: Worked on Flask App, HTML, a small Javascript review, and some Python exercises
+
+**Thoughts:** The HTML part of the Flask app continues to go well. I'm excited to see it all coming together.  I reviewed Python exercises and briefly saw some of the differences between Python 2 and Python 3.  I definitely like Python 3 better so far. Just working on Javascript after spending a few weeks on Python I was forgetting all of the semicolons and yet things were still running...
+
+**Link(s) to work:** [Flask With MongoDB Task App](https://github.com/HajaSChilds/FlaskWithMongoTaskApp), [Python Playground Exercises](https://github.com/HajaSChilds/python_playground), [Javascript Playground Exercises](https://github.com/HajaSChilds/javascript_playground) 
+
+
 ### Day 1: April 21, 2020
 
 **Today's Progress**: Worked on Flask App, HTML and also a small Javascript challenge
