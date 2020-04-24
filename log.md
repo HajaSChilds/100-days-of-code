@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 3: April 23, 2020
+
+**Today's Progress**: Worked on Flask App, HTML, Mongo DB and more Javascript review
+
+**Thoughts:** Worked on the HTML part of the Flask app.  For some reason the Jinja2 engine is not pulling data into the HTML templates although the Flask app is running. I have to troubleshoot that. On another note, I realize how rare it is for me to use table in my html documents.  I read somewhere that prior to modern css - flexbox and grid - developers would use TABLE to layout and position elements. Yikes!  As much as I have been tortured by flexbox and css-grid I would not have made it typing out all those tr's and td's!!
+
+**Link(s) to work:** [Flask With MongoDB Task App](https://github.com/HajaSChilds/FlaskWithMongoTaskApp)
+
+
 ### Day 2: April 22, 2020
 
 **Today's Progress**: Worked on Flask App, HTML, a small Javascript review, and some Python exercises
