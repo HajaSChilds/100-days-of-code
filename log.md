@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 4: April 24, 2020
+
+**Today's Progress**: Worked on Flask App, HTML, Mongo DB and Javascript Practice 
+
+**Thoughts:** Haven't figured it out yet, why the data is not being pulled into the HTML templates. Now going through the code with a fine tooth comb.  I should have known that trying to figure out issues at this point would be a nightmare. I needed to test it sooner instead of building so much and trying to figure it out later.  That was never going to work, of course. I will give a few more days then scrap it and start from scratch and debug properly.
+
+**Link(s) to work:** [Flask With MongoDB Task App](https://github.com/HajaSChilds/FlaskWithMongoTaskApp)
+
+
 ### Day 3: April 23, 2020
 
 **Today's Progress**: Worked on Flask App, HTML, Mongo DB and more Javascript review
