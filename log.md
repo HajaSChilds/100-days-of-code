@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 5: April 25, 2020
+
+**Today's Progress**: Worked on Javascript Exercises and debugging Flask App
+
+**Thoughts:** Worked on Javascript Exercises, including arrow functions, destructuring and object deconstruction. Printed out error logs for Flask app, there were 17 errors listed, one that included Jinja2. Started going through each one - googling and checking code.  Hopefully this process works!
+
+**Link(s) to work:** [Flask With MongoDB Task App](https://github.com/HajaSChilds/FlaskWithMongoTaskApp), [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground)
+
+
 ### Day 4: April 24, 2020
 
 **Today's Progress**: Worked on Flask App, HTML, Mongo DB and Javascript Practice 
