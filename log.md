@@ -4,7 +4,7 @@
 
 **Today's Progress**: Fixed FLASK APP YAY!!! Worked on Javascript exercises.
 
-**Thoughts:** Found the bugs, big thanks to Stack Overflow and Flask Documentation !!!(***applause***). I currently have a working Flask App with Mongo DB Database and HTML/CSSS user interface. They bugs were so tiny and insignificant and yet they screwed up the whole project.  The first bug was a space between a bracket and modulus in one of the conditionals of the Flask app on the html template file.  The second was the absence of a period before the namespace in the template file. Today I also worked on Javascript Exercises, including more arrow functions, destructuring, object deconstruction, and spread function. 
+**Thoughts:** Found the bugs, big thanks to Stack Overflow and Flask Documentation !!!(***applause***). I currently have a working Flask App with Mongo DB Database and HTML/CSSS user interface. The bugs were so tiny and insignificant and yet they screwed up the whole project.  The first bug was a space between a bracket and modulus in one of the conditionals of the Flask app on the html template file.  The second was the absence of a period before the namespace in the template file. Today I also worked on Javascript Exercises, including more arrow functions, destructuring, object deconstruction, and spread function. 
 
 **Link(s) to work:** [Flask With MongoDB Task App](https://github.com/HajaSChilds/FlaskWithMongoTaskApp), [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground)
 
