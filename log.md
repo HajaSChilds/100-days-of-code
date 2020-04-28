@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: April 27, 2020
+
+**Today's Progress**: Worked on Javascript exercises. CSS on To-Do Flask App. Started planning Portfolio Website Flask App
+
+**Thoughts:** Worked on Javascript Exercises, including spread, bind function, determining object equivalence.  Also tweaked the CSS for the To-Do Flask App.  Started planning the Portfolio Website Flask App ***super excited about this***
+
+**Link(s) to work:** [Flask With MongoDB Task App](https://github.com/HajaSChilds/FlaskWithMongoTaskApp), [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground)
+
+
 ### Day 6: April 26, 2020
 
 **Today's Progress**: Fixed FLASK APP YAY!!! Worked on Javascript exercises.
