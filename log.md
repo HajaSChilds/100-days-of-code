@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+### Day 8: April 28, 2020
+
+**Today's Progress**: Worked on Javascript exercises. Started the Portfolio Website
+
+**Thoughts:** Worked on Javascript Exercises, including arrow functions and classes. Started coding the Portfolio Website Flask App **** YES!!!!!!!!!!!***
+
+**Link(s) to work:** [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech), [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground)
+
+
+
 ### Day 7: April 27, 2020
 
 **Today's Progress**: Worked on Javascript exercises. CSS on To-Do Flask App. Started planning Portfolio Website Flask App
