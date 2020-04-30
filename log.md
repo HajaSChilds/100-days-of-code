@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 9: April 29, 2020
+
+**Today's Progress**: Worked on Python exercises. Started coding the Flask app foundation 
+
+**Thoughts:** Trying to keep the rules solid in my mind, switching back and forth with Python and Javascript.  Theres no doubt I prefer Python. Today I worked on Python Dictionaries and Lists and reviewed Lambda functions and zip function with PythonForAll study group. I'm building the Flask app foundation of the Portfolio Website Flask App. ****Someone please explain why is this so much fun?***  I will end up building everything on Flask at the rate I am going.
+
+**Link(s) to work:** [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech), [Python 3 Exercises](https://github.com/HajaSChilds/python3_playground)
+
+
+
 ### Day 8: April 28, 2020
 
 **Today's Progress**: Worked on Javascript exercises. Started the Portfolio Website
