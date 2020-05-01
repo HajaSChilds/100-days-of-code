@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 10: April 30, 2020
+
+**Today's Progress**: Worked on Javascript exercises. Still coding the Flask app foundation 
+
+**Thoughts:** Didn't get as much coding done today as I would have preferred.  I wish I could spend more time coding and less time doing other stuff. Worked on Javascript classes, object oriented programing today.
+
+**Link(s) to work:** [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech), [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground)
+
+
+
 ### Day 9: April 29, 2020
 
 **Today's Progress**: Worked on Python exercises. Started coding the Flask app foundation 
