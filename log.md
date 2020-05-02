@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 11: May 1, 2020
+
+**Today's Progress**: Worked on Javascript exercises. 
+
+**Thoughts:** Javascript Exercises. More Object Oriented programming. I am motivated to get back into the Flask app.  It will happen.
+
+**Link(s) to work:** [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground)
+
+
 ### Day 10: April 30, 2020
 
 **Today's Progress**: Worked on Javascript exercises. Still coding the Flask app foundation 
