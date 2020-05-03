@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 12: May 2, 2020
+
+**Today's Progress**: Completed App Routes for the Portfolio Website Flask App!! Worked on Javascript Promises. 
+
+**Thoughts:**  ***I am having way too much fun coding this Flask App!!!!***  It is without a doubt the highlight of my coding experience.  Since I have an extra organized build process now, it makes it super easy and enjoyable.  My process:  I created the file structure first. Downloaded all of the python modules.  Coded most of the html templates. Today I built the skeleton of the flask app with all the routes to the templates. Created a project to-do Kanban board [My Project](https://github.com/HajaSChilds/thisdevlovestech/projects/1) so that I know exactly what needs to be done. The best part - I can quickly test each segment to ensure it works. This is much better than last time when I coded so much then took 3 days debugging, smh.  Since the build process is so smooth and organized it gives me time to review the documentation. I hope every project I complete is this awesome.  More Javascript exercises as well - Functional Programming and Promises
+
+**Link(s) to work:** [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech), [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground)
+
+
 ### Day 11: May 1, 2020
 
 **Today's Progress**: Worked on Javascript exercises. 
@@ -16,7 +25,7 @@
 
 **Thoughts:** Didn't get as much coding done today as I would have preferred.  I wish I could spend more time coding and less time doing other stuff. Worked on Javascript classes, object oriented programing today.
 
-**Link(s) to work:** [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech), [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground)
+**Link(s) to work:**  [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground)
 
 
 
