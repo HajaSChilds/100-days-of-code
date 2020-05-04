@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 13: May 3, 2020
+
+**Today's Progress**: Added additional html templates and App Routes for the Portfolio Website Flask App!! Worked on Javascript Promises, Group Promises and Callbacks. 
+
+**Thoughts:**  Worked on learning Javascript more Promises and Functional programming.  In addition read entire Javascript Beginners Handbook which was a great review of everything I learned thus far.  The Portfolio Website Flask App continues to move along nicely. I changed the blog page design and I am much happier with it now. I realized that I needed to add more app routes for the details page of the blog posts and projects. 
+
+I wonder if the project is too big and if there will be effects on loading and performance. This was always a consideration with Android Mobile Development - I have no idea how it translates to the web.  Now it is time to get into the nuts and bolts of how the blog posts and projects will be arranged and loaded onto the templates.  This will be the challenging part of the project I think...well besides the CSS of course, lol. Then I have to think about hosting and deployment. Well...one step at a time.
+
+**Link(s) to work:** [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech), [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground)
+
+
 
 ### Day 12: May 2, 2020
 
