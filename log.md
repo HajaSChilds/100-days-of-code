@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 14: May 4, 2020
+
+**Today's Progress**: More work on Javascript Promises, Callbacks and Async Await. 
+
+**Thoughts:**  Worked on learning Javascript more Promises and asynchronous Functional programming.  It is finally starting to sink in - fetch API, callbacks, vs promise vs async await. Flask app also got more html template coding. Started learning JQuery but no commits yet.
+
+**Link(s) to work:**  [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground), [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech),
+
+
 ### Day 13: May 3, 2020
 
 **Today's Progress**: Added additional html templates and App Routes for the Portfolio Website Flask App!! Worked on Javascript Promises, Group Promises and Callbacks. 
