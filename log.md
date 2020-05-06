@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+## Day 15: May 5, 2020
+
+**Today's Progress**: It has been Javascript all day today.  Read about Flask project structures which was also great [Explore Flask](http://exploreflask.com/en/latest/preface.html)
+
+**Thoughts:**  Worked on solving a Javascript problem - weighted lottery function. No commits because I have not found the solution yet. I know what needs to happen but I keep runnning into challenges with manipulating the different data structures to give the result.  It seems like it should be easy but then the challenges arise.  I did solve this exact same problem in Python with no issues at all.
+
+**Link(s) to work:**  No commits today.
+
 ## Day 14: May 4, 2020
 
 **Today's Progress**: More work on Javascript Promises, Callbacks and Async Await. 
