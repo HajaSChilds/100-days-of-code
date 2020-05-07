@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+## Day 16: May 6, 2020
+
+**Today's Progress**: Busy day. Worked on Javascript random number challenge, Lodash Javascript Library and Map, Filter and Reduce.  Worked on Python exercises re: Modules, Classes and Objects with PythonFor All study group.  Read about Flask project architecture. Added initial CSS variables and links to the Flask Portfolio Website Project. [Explore Flask](http://exploreflask.com/en/latest/preface.html)
+
+**Thoughts:**  I spent a fair amount of time on the projects but not sure I truly made significant progress in each.  I did learn some new concepts and move forward in each discipline so in that perspective Day 16 was a success.  I definitely felt a little disconcerted at times and of course, wonder if I could have accomplished more working in depth in one or two things rather than covering so much ground in one day.
+
+**Link(s) to work:**  [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground), [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech), [Python 3 Exercises](https://github.com/HajaSChilds/python3_playground)
+
+
+
 ## Day 15: May 5, 2020
 
 **Today's Progress**: It has been Javascript all day today.  Read about Flask project structures which was also great [Explore Flask](http://exploreflask.com/en/latest/preface.html)
