@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+# Day 17: May 7, 2020
+
+**Today's Progress**:  Worked on Javascript,learned about the Quokka extension and error handling.  Read about Flask project architecture. Continued working on the Flask App. [Explore Flask](http://exploreflask.com/en/latest/preface.html)
+
+**Thoughts:** I need to spend more time on Javascript, getting used to manipulating the functions and getting it to solve problems.  It does not come fluidly like it does for Python, html, css even. I am still enjoying working on the Flask app,  I love seeing it come together.
+
+**Link(s) to work:**  [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground), [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech),
+
+
 ## Day 16: May 6, 2020
 
 **Today's Progress**: Busy day. Worked on Javascript random number challenge, Lodash Javascript Library and Map, Filter and Reduce.  Worked on Python exercises re: Modules, Classes and Objects with PythonFor All study group.  Read about Flask project architecture. Added initial CSS variables and links to the Flask Portfolio Website Project. [Explore Flask](http://exploreflask.com/en/latest/preface.html)
