@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+# Day 18: May 8, 2020
+
+**Today's Progress**:  Worked on Javascript, established advanced javascript dev environment, installed packages via npm, imported Javascript modules. Continued working on the Flask Portfolio App. 
+
+**Thoughts:** Github is amazing. Received my first security alert for a dependency vulnerability in my javascript file. It was sent by email moments after I pushed to the repo. Good thing its a development environment running on node js, so there's no threat.  This feature is quite impressive.
+
+**Link(s) to work:**  [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground), [Node Projects](https://github.com/HajaSChilds/advanced-javascript-playground), [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
 
 # Day 17: May 7, 2020
 
