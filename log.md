@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+# Day 19: May 9, 2020
+
+**Today's Progress**:  Worked on building a Flask API for a movie database site.  Flask with SQLAlchemy and Marshmallow and Cloudinary. Continued working on my Flask Portfolio App. Super Flask day today which is great.
+
+**Thoughts:** Even though I built a Flask API with SQLite database before and it worked perfectly fine, this one built while coding along with a live demo gave me a shitload of trouble for no apparent reason.  The database doesnt want to accept the data for some reason.  I think it was because I missed marshmallow-sqlalchemy in the initial package install.  So when I installed it then it popped up a database that still wouldn't work.  So then I deleted the database  and reinstalled all the modules and it still didnt want to cooperate. Then I created a database and it just sits there non-functional. Postman basically says...its not our problem Operational Error with the drivers of the database, etc.  I have to walk away before I rage launch this computer through the window.  
+
+I also worked on the Flask Portfolio Website which is coming along nicely. Overall I think my understanding of Flask continues to improve the more I work with it and I still think its a fun framework.
+
+**Link(s) to work:** [Flask-SQLAlchemy Movie Project](https://github.com/HajaSChilds/movie-project) , [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
 # Day 18: May 8, 2020
 
 **Today's Progress**:  Worked on Javascript, established advanced javascript dev environment, installed packages via npm, imported Javascript modules. Continued working on the Flask Portfolio App. 
