@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 20: May 10, 2020
+
+**Today's Progress**:  Its Mother's Day so I get a pass, lol.  Just kidding.   Despite attempts, no progress on getting the SQL-Alchemy Sqlite Database working.  A little bit of  work on npm package installation.  Continued working on my Flask Portfolio App. 
+
+**Thoughts:** Did not make substantial forward progress today.  I did my best to debug the sqlite problems on the Flask movie app but I think at this point I will just switch out the database. Either I will learn AWS S3 or PostgreSQL.  That should be fun.  The movie project Flask App is running fine, its just the sqlite database that is a problem.  Speaking of databases,  I started to add the MongoDB database for the portfolio website which is just gravy. I dont think I made any commits since everything is in PostMan or MongoDB land.
+
+**Link(s) to work:** [Flask-SQLAlchemy Movie Project](https://github.com/HajaSChilds/movie-project) , [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
 
 # Day 19: May 9, 2020
 
