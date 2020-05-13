@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+# Day 22: May 12, 2020
+
+**Today's Progress**:  Explored npm packages, created, published, edited, and updated a custom npm package which was then imported into a basic React App.
+
+**Thoughts:** Worked on Javascript using npm packages. Published my first [custom npm package](https://www.npmjs.com/package/gingerbee_npm) and published it to the npm library.  It was so fun! This npm package is a javascript import that uses Moment Js library and adds a copyright footer with the current year and company name to any project. 
+
+I accidentally made a commit without saving the completed code.  So I had to learn how to update, edit, update the version number and republish my custom package.  So this was a lesson that mistakes sometimes lead to better discovery and mastery. It was crazy addictive and I think I will enjoy open source and building software tools to make our job more efficient.
+
+**Link(s) to work:** [Custom npm package Gingerbee](https://github.com/HajaSChilds/gingerbee_npm).  [Node Projects](https://github.com/HajaSChilds/advanced-javascript-playground), [React App using the custom NPM Package](https://github.com/HajaSChilds/REACT-NPM-STARTER)
+
+
+
 # Day 21: May 11, 2020
 
 **Today's Progress**:  Worked on Javascript, Moment Js 
