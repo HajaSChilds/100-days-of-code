@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+# Day 23: May 13, 2020
+
+**Today's Progress**:  Worked on Javascript Exercises and some Python3 Exercises
+
+**Thoughts:** Worked on building a diner menu and flow using Vanilla Javascript with Math package of Lodash library, html and css. Still in progress, not completed yet.
+
+**Link(s) to work:** [Diner Menu](https://github.com/HajaSChilds/bottega-diner)[Python Playground](https://github.com/HajaSChilds/python3_playground)
+
 # Day 22: May 12, 2020
 
 **Today's Progress**:  Explored npm packages, created, published, edited, and updated a custom npm package which was then imported into a basic React App.
