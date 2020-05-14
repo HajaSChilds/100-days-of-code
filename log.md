@@ -4,9 +4,9 @@
 
 **Today's Progress**:  Worked on Javascript Exercises and some Python3 Exercises
 
-**Thoughts:** Worked on building a diner menu and flow using Vanilla Javascript with Math package of Lodash library, html and css. Still in progress, not completed yet.
+**Thoughts:** Worked on building a Diner menu and flow using Vanilla Javascript with Math package of Lodash library, html and css. Still in progress, not completed yet. This exercise must follow several rules including giving a possible fixed price menu or a total of separate items. There may also be responses from the virtual waitress.
 
-**Link(s) to work:** [Diner Menu](https://github.com/HajaSChilds/bottega-diner)[Python Playground](https://github.com/HajaSChilds/python3_playground)
+**Link(s) to work:** [Diner Menu](https://github.com/HajaSChilds/bottega-diner), [Python Playground](https://github.com/HajaSChilds/python3_playground)
 
 # Day 22: May 12, 2020
 
