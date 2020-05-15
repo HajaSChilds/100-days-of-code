@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 24: May 14, 2020
+
+**Today's Progress**:  Worked on HTML, CSS and Javascript
+
+**Thoughts:** Continued working on building a Diner menu and flow using Vanilla Javascript with Math package of Lodash library, html and css. Still in progress, not completed yet. This exercise must follow several rules including giving a possible fixed price menu or a total of separate items. There may also be responses from the virtual waitress.
+
+**Link(s) to work:** [Bottega Diner Menu Project](https://github.com/HajaSChilds/bottega-diner)
+
+
 # Day 23: May 13, 2020
 
 **Today's Progress**:  Worked on Javascript Exercises and some Python3 Exercises
