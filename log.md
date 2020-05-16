@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+# Day 25: May 15, 2020
+
+**Today's Progress**:  Worked on HTML, CSS, Javascript and Git. Worked on practicing lesser known Git functions such as Git diff, Git Stash, Git Rebase and Git Merge and Git Reset
+
+**Thoughts:** Continued working on building a Diner menu webpage and flow using Vanilla Javascript with Math package of Lodash library, html and css. Added extra buttons in CSS and worked out the kinks in the functionality. Worked on the Javascript weighted lottery function about 80% towards solution. Also learned multiple Git features I have never used before  - except maybe out of desperation and Googling and praying that it works and I get my code back, hahaha.  With these new functions plus the pull requests from my fork that I have been doing this week for open source, I feel like I have Git superpowers. ***applause!!!***
+
+**Link(s) to work:** [Bottega Diner Menu Project](https://github.com/HajaSChilds/bottega-diner), [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground) 
+
+
+
 # Day 24: May 14, 2020
 
 **Today's Progress**:  Worked on HTML, CSS and Javascript
