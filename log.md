@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+
+# Day 26: May 16, 2020
+
+**Today's Progress**:  Worked on HTML, CSS, Javascript.  Vanilla Javascript challenges and DOM manipulation 
+
+**Thoughts:** Continued working on building the Diner menu webpage and flow using Vanilla Javascript with Math package of Lodash library, html and css. Added extra functions to the app. Worked on the Javascript weighted lottery function. 
+
+**Link(s) to work:** [Bottega Diner Menu Project](https://github.com/HajaSChilds/bottega-diner), [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground) 
+
+
 # Day 25: May 15, 2020
 
 **Today's Progress**:  Worked on HTML, CSS, Javascript and Git. Worked on practicing lesser known Git functions such as Git diff, Git Stash, Git Rebase and Git Merge and Git Reset
