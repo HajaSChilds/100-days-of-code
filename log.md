@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+# Day 27: May 17, 2020
+
+**Today's Progress**:  Its a Javascript weekend, Diner project and DOM manipulation
+
+**Thoughts:** Worked on two small javascript projects with rendering to the DOM.  Made some additional changes to the Javascript Diner project.
+
+**Link(s) to work:** [Bottega Diner Menu Project](https://github.com/HajaSChilds/bottega-diner), [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground) 
 
 
 # Day 26: May 16, 2020
