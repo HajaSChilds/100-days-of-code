@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+# Day 28: May 18, 2020
+
+**Today's Progress**:  Worked on more Javascript DOM manipulation exercises and Python exercises - reviewed object oriented programming and classes.
+
+**Thoughts:** Worked on vanilla javascript exercises with rendering to the DOM.  Reviewed Python object oriented programming including classes, objects and inheritance with the wonderful PythonForAll study group. Javascript data manipulation is coming together with these projects. I'm eager to get back to building in Flask, once I complete these Javascript challenges.
+
+**Link(s) to work:**  [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground), [Python Playground](https://github.com/HajaSChilds/python3_playground) 
+
 # Day 27: May 17, 2020
 
 **Today's Progress**:  Its a Javascript weekend, Diner project and DOM manipulation
