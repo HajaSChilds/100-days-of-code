@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+# Day 29: May 19, 2020
+
+**Today's Progress**:  Worked on more Javascript DOM manipulation exercises, Array challenges and the Diner Project.
+
+**Thoughts:** Worked on vanilla javascript exercises with rendering to the DOM.  Javascript data manipulation is continuing to become more clear with these projects and exercises. Started learning UML which seemed like it would be boring and tedious but it actually made a lot of sense and would make building projects easier
+
+**Link(s) to work:**  [Javascript Exercises](https://github.com/HajaSChilds/javascript_playground), [Bottega Diner Menu Project](https://github.com/HajaSChilds/bottega-diner) 
+
 # Day 28: May 18, 2020
 
 **Today's Progress**:  Worked on more Javascript DOM manipulation exercises and Python exercises - reviewed object oriented programming and classes.
