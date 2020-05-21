@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 30: May 20, 2020
+
+**Today's Progress**:  Worked on the Javascript Bottega Diner Project and Python Exercises in Classes, Objects and Inheritance.
+
+**Thoughts:** The Bottega Diner Project is almost finished. I'm happy to see progress with getting all of the functions to work properly. It is definitely a challenge but setting up the project with all the todos and working on each function one by one really helped. It also clarified where I have been having issues in Javascript, which is getting data out of arrays and objects. Also worked on Python Classes, Objects and Inheritance using a fun drill method.   Continued learning UML which helped my overall understanding of software project architecture and database organization. Overall, a very productive day.
+
+**Link(s) to work:** [Bottega Diner Menu Project](https://github.com/HajaSChilds/bottega-diner), [Python Playground](https://github.com/HajaSChilds/python3_playground) 
+ 
+
 # Day 29: May 19, 2020
 
 **Today's Progress**:  Worked on more Javascript DOM manipulation exercises, Array challenges and the Diner Project.
