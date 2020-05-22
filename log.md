@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 31: May 21, 2020
+
+**Today's Progress**:  Worked on the Javascript Bottega Diner Project and UML Class Diagrams
+
+**Thoughts:** The Bottega Diner Project is almost finished but its still tricky deciding how to get the returns correctly. It seemed pretty well defined with classes from the beginning but the data dependencies are becoming circular lol.    Created a Twitter Mockup Class Diagram UML which was pretty interesting.  I'm wondering if I used a class diagram for this project if it would have been easier.   I am grateful for the Lodash library it saved me having to add a bunch of extra code.
+
+**Link(s) to work:** [Bottega Diner Menu Project](https://github.com/HajaSChilds/bottega-diner)
+ 
+
 # Day 30: May 20, 2020
 
 **Today's Progress**:  Worked on the Javascript Bottega Diner Project and Python Exercises in Classes, Objects and Inheritance.
