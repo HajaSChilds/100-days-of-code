@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 32: May 22, 2020
+
+**Today's Progress**:  Worked on the Javascript Bottega Diner Project and UML Class Diagrams
+
+**Thoughts:** A light coding day.  Tried Mermaid Js to build the UML Class Diagram but it didn't render the graphs. Some work on the Diner Project. Excited to get closer to completion. Looking forward to more coding.
+
+**Link(s) to work:** [Bottega Diner Menu Project](https://github.com/HajaSChilds/bottega-diner)
+ 
+
 # Day 31: May 21, 2020
 
 **Today's Progress**:  Worked on the Javascript Bottega Diner Project and UML Class Diagrams
