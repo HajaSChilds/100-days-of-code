@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+# Day 33: May 23, 2020
+
+**Today's Progress**:  Worked on a sales price/pretty price project in Javascript and built out a UI in HTML & CSS
+
+**Thoughts:** Discovered I again used multiple lines of code to solve a problem that only took one line of code.  I think I tend to default to string manipulation which inherently uses more code with all the .toString and parseInt manipulations.  I have to start thinking about the fastest, most efficient formula that will solve the problem in the current data type rather than switching.  The other issue is being aware of all of the numerous tools and formulae which exist.  Also I need to work on styling HTML forms.
+
+**Link(s) to work:** [Pretty Price Project](https://github.com/HajaSChilds/advanced-javascript-playground)
+ 
+
+
 # Day 32: May 22, 2020
 
 **Today's Progress**:  Worked on the Javascript Bottega Diner Project and UML Class Diagrams
