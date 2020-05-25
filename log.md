@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 34: May 24, 2020
+
+**Today's Progress**:  Continued work on a sales price/pretty price project in Javascript and built out a UI in HTML & CSS
+
+**Thoughts:** Not too much coding today but a little work on this project. Eager to get back to it tomorrow!
+
+**Link(s) to work:** [Pretty Price Project](https://github.com/HajaSChilds/advanced-javascript-playground)
+ 
+
 # Day 33: May 23, 2020
 
 **Today's Progress**:  Worked on a sales price/pretty price project in Javascript and built out a UI in HTML & CSS
