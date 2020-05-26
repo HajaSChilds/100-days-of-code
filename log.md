@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+# Day 35: May 25, 2020
+
+**Today's Progress**:  Worked on building a UML Class Diagram for Ecommerce and a simple shopping cart to practice javascript math functions using a scrimba course.
+
+**Thoughts:** Watching and reading other people's javascript code is so helpful!  Certain maneuvers I simply did not realize or remember I could do with Javascript I now notice and can use in my projects.  Reading about using the spread operator and returning objects seems to be exactly what I need to do to solve some of my project challenges.  I will re-tackle my other javascript projects to see if I could refactor the code to be more efficient. No more browser freezing from costly loops, lol. **Map function and spread operator** < ----- I will use these more.
+
+**Link(s) to work:** [Simple Shopping Cart](https://github.com/HajaSChilds/ecommerce)
+
 # Day 34: May 24, 2020
 
 **Today's Progress**:  Continued work on a sales price/pretty price project in Javascript and built out a UI in HTML & CSS
