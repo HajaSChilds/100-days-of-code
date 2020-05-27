@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 36: May 26, 2020
+
+**Today's Progress**: Refactored the code in two Javascript projects, using Map, Filter and Spread operators!
+
+**Thoughts:** Learned so much just playing around with the console log and manipulating arrays to get back data in the Diner Project and PrettyPrice Nursery Project. All the weird things about the way Javascript operates became apparent and more manageable.  I think the language is finally starting to sink in, lol.  I have to learn as many functions as possible to be more efficient with my code instead of trying to use the same skills to solve every problem.
+
+**Link(s) to work:** [Pretty Price Project](https://github.com/HajaSChilds/advanced-javascript-playground), [Bottega Diner Menu Project](https://github.com/HajaSChilds/bottega-diner)
+
+
 # Day 35: May 25, 2020
 
 **Today's Progress**:  Worked on building a UML Class Diagram for Ecommerce and a simple shopping cart to practice javascript math functions using a scrimba course.
@@ -7,6 +16,7 @@
 **Thoughts:** Watching and reading other people's javascript code is so helpful!  Certain maneuvers I simply did not realize or remember I could do with Javascript I now notice and can use in my projects.  Reading about using the spread operator and returning objects seems to be exactly what I need to do to solve some of my project challenges.  I will re-tackle my other javascript projects to see if I could refactor the code to be more efficient. No more browser freezing from costly loops, lol. **Map function and spread operator** < ----- I will use these more.
 
 **Link(s) to work:** [Simple Shopping Cart](https://github.com/HajaSChilds/ecommerce)
+
 
 # Day 34: May 24, 2020
 
