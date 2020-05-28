@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 37: May 27, 2020
+
+**Today's Progress**: More Vanilla Javascript practice, Completed the Simple Shopping Cart Project. Continued refactoring the code in the Bottega Diner project, using Map, Filter, Reduce and Spread operators. 
+
+**Thoughts:**  Just two functions away from completing the Diner Project. So close!
+
+**Link(s) to work:**  [Bottega Diner Menu Project](https://github.com/HajaSChilds/bottega-diner), [Simple Shopping Cart](https://github.com/HajaSChilds/simple-shopping-cart)
+
+
 # Day 36: May 26, 2020
 
 **Today's Progress**: Refactored the code in two Javascript projects, using Map, Filter and Spread operators!
