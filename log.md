@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 38: May 28, 2020
+
+**Today's Progress**: Started back on the Flask Portfolio Project, building out the CSS on the home page, its starting to look amazing. More Vanilla Javascript practice, completed all but one task on the Bottega Diner Project. Completed the Ecommerce UML Diagram.
+
+**Thoughts:**  Very productive day
+
+**Link(s) to work:**  [Bottega Diner Menu Project](https://github.com/HajaSChilds/bottega-diner), [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
 # Day 37: May 27, 2020
 
 **Today's Progress**: More Vanilla Javascript practice, Completed the Simple Shopping Cart Project. Continued refactoring the code in the Bottega Diner project, using Map, Filter, Reduce and Spread operators. 
