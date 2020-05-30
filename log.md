@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 39: May 29, 2020
+
+**Today's Progress**: Continuing on the Flask Portfolio Project, building out the CSS on the home page, very satisfied with the progress. Started a small react project in Scrimba. Worked on an Ecommerce Activity Diagram since the Class Diagram is complete.
+
+**Thoughts:**  Learned alot, the second exposure to React after Flask and it makes so much sense.  It now feels almost intuitive.  I have to figure out how to hook up the React front end to the Flask backend then hopefully I can breeze through a powerful web app.
+
+**Link(s) to work:** [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech), [New React To-Do App](https://github.com/HajaSChilds/react-to-do)
+
+
 # Day 38: May 28, 2020
 
 **Today's Progress**: Started back on the Flask Portfolio Project, building out the CSS on the home page, its starting to look amazing. More Vanilla Javascript practice, completed all but one task on the Bottega Diner Project. Completed the Ecommerce UML Diagram.
