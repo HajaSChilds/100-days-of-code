@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 40: May 30, 2020
+
+**Today's Progress**: Continuing to work on the Flask Portfolio Project, building out the CSS on the home page, very satisfied with the progress. 
+
+**Thoughts:**  CSS is coming along well.  Not a ton of coding today but still making progress.
+
+**Link(s) to work:** [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
 # Day 39: May 29, 2020
 
 **Today's Progress**: Continuing on the Flask Portfolio Project, building out the CSS on the home page, very satisfied with the progress. Started a small react project in Scrimba. Worked on an Ecommerce Activity Diagram since the Class Diagram is complete.
