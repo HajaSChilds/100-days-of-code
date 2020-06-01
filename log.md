@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 41: May 31, 2020
+
+**Today's Progress**: Continuing to work on the Flask Portfolio Project, building out the CSS on the home page.  Running into small hiccups, whitespaces, imperfect positioning, etc. but it keeps moving along.
+
+**Thoughts:**  Glad to see the home page taking shape but it is taking a while to get everything perfect.  Maybe better to keep going with a rough build then go back to fix the little imperfections.  Had a nice break with this project, now time to get back to Javascript.
+
+**Link(s) to work:** [Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
 # Day 40: May 30, 2020
 
 **Today's Progress**: Continuing to work on the Flask Portfolio Project, building out the CSS on the home page, very satisfied with the progress. 
