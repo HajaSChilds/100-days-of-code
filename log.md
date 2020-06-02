@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 42: June 1, 2020
+
+**Today's Progress**: Continuing to move forward with the Flask Portfolio Project, building out the CSS. Also started working on a React App. This has been interesting  - learning how to use CSS while keeping track of the DOM tree as needed for React components. These are both private repositories so they will not display on the links.
+
+**Thoughts:**  Glad to be moving forward with improving CSS skills and improving my understanding of project architecture design.  Its interesting to see React projects file structure vs. Flask project file structure, compared to projects which have both frameworks.
+
+**Link(s) to work:** [Private Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech), [Private React Repo](https://github.com/A-B-G-Inc/rdb-site)
+
+
 # Day 41: May 31, 2020
 
 **Today's Progress**: Continuing to work on the Flask Portfolio Project, building out the CSS on the home page.  Running into small hiccups, whitespaces, imperfect positioning, etc. but it keeps moving along.
