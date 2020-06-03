@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 43: June 2, 2020
+
+**Today's Progress**: Continuing to move forward with the Flask Portfolio Project, building out the CSS.  Had to learn how to upload a photo to the DOM - it was not straightforward with Flask.  Continued working on a React App, now figuring out how to make a React Element responsive. These are both private repositories so they will not display on the links.
+
+**Thoughts:**  Glad to be continuing to move forward with understanding React, improving CSS skills and improving my understanding of project architecture design.  
+
+**Link(s) to work:** [Private Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech), [Private React Repo](https://github.com/A-B-G-Inc/rdb-site)
+
+
 # Day 42: June 1, 2020
 
 **Today's Progress**: Continuing to move forward with the Flask Portfolio Project, building out the CSS. Also started working on a React App. This has been interesting  - learning how to use CSS while keeping track of the DOM tree as needed for React components. These are both private repositories so they will not display on the links.
