@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 45: June 4, 2020
+
+**Today's Progress**: Deep dive into React now. Learning how to manipulate data and render to the page.  Starting to see where React shines despite the seeming complexity. Working on the React Portfolio App and the private React Website. No Flask portfolio site today.
+
+**Thoughts:**  Happy with the progress and seeing the solutions come together as I'm learning which tools to use, such as map.
+
+**Link(s) to work:**  [Private React Repo](https://github.com/A-B-G-Inc/rdb-site), [React Sample Portfolio App](https://github.com/HajaSChilds/react-portfolio.git)
+
+
 # Day 44: June 3, 2020
 
 **Today's Progress**: More attention to React now. Exploring the details of the file structures, configurations and dependencies and starting Redux. Also working on building a React website and continuing with the Flask Portfolio Website. Also worked on continuing to build UML diagrams.
