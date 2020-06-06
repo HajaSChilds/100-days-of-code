@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+# Day 46: June 5, 2020
+
+**Today's Progress**: Continuing with React projects today.  Working on a Portfolio React app and a React Website. I am diving into React state which seems to be like state and context in Android Java development. React components remind me of Fragments in Android Java development.  I think it helps to find corollaries of programming concepts in order to grasp them more quickly.  I know it can only go so far though, so in the end I have to master each concept individually.
+
+**Thoughts:** Pretty satisfied with the progress.
+
+**Link(s) to work:**  [Private React Repo](https://github.com/A-B-G-Inc/rdb-site), [React Sample Portfolio App](https://github.com/HajaSChilds/react-portfolio.git)
+
+
+
 # Day 45: June 4, 2020
 
 **Today's Progress**: Deep dive into React now. Learning how to manipulate data and render to the page.  Starting to see where React shines despite the seeming complexity. Working on the React Portfolio App and the private React Website. No Flask portfolio site today.
