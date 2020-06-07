@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+# Day 47: June 6, 2020
+
+**Today's Progress**: Still going strong. Continuing the private React Website project. Learning in-depth about state and passing props.  Also working on the React Portfolio Website and the Flask Portfolio websites.
+
+**Thoughts:** Moving along!
+
+**Link(s) to work:**  [Private React Repo](https://github.com/A-B-G-Inc/rdb-site), [React Sample Portfolio App](https://github.com/HajaSChilds/react-portfolio.git), [Private Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
+
 # Day 46: June 5, 2020
 
 **Today's Progress**: Continuing with React projects today.  Working on a Portfolio React app and a React Website. I am diving into React state which seems to be like state and context in Android Java development. React components remind me of Fragments in Android Java development.  I think it helps to find corollaries of programming concepts in order to grasp them more quickly.  I know it can only go so far though, so in the end I have to master each concept individually.
