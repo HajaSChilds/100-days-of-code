@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+# Day 48: June 7, 2020
+
+**Today's Progress**:  Polishing the private React Website project and adding features. Continuing to learn about displaying info and changing state in React. Reviewing CSS menu features, hamburger menus, sticky menus, fixed menus.
+
+**Thoughts:** So much time spent on CSS. 
+
+**Link(s) to work:**  [Private React Repo](https://github.com/A-B-G-Inc/rdb-site)
+
+
+
 # Day 47: June 6, 2020
 
 **Today's Progress**: Still going strong. Continuing the private React Website project. Learning in-depth about state and passing props.  Also working on the React Portfolio Website and the Flask Portfolio websites.
