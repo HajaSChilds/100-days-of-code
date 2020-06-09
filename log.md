@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 49: June 8, 2020
+
+**Today's Progress**:  More React, rendering, keys, lists, maps, props.
+
+**Thoughts:** Nested dropdown menu kicking my butt.  However I have come up with a plan that I think will work.  Wow almost halfway through 100 days!
+
+**Link(s) to work:**  [Private React Repo](https://github.com/A-B-G-Inc/rdb-site)
+
+
 
 # Day 48: June 7, 2020
 
