@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 50: June 9, 2020
+
+**Today's Progress**:  More React,  state, props conditional rendering hamburger menus.
+
+**Thoughts:** Proud to reach 50 days!
+
+**Link(s) to work:**  [Private React Repo](https://github.com/A-B-G-Inc/rdb-site)
+
+
 # Day 49: June 8, 2020
 
 **Today's Progress**:  More React, rendering, keys, lists, maps, props.
