@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 51: June 10, 2020
+
+**Today's Progress**:  Working on Flask Portfolio App. 
+
+**Thoughts:** Realizing that the Flask template rules are pretty interesting, the behavior is not exactly as expected. I'm considering writing up a blog post about troubleshooting with Flask templates.  The beauty of making  mistakes, frustrating as they may be, is gaining more in depth knowledge of code.
+
+**Link(s) to work:**  [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
 # Day 50: June 9, 2020
 
 **Today's Progress**:  More React,  state, props conditional rendering hamburger menus.
