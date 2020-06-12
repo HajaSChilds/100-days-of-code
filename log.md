@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 52: June 11, 2020
+
+**Today's Progress**:  Working on Flask Portfolio App and React Deep Dive
+
+**Thoughts:** Continuing to build the Flask Portfolio Website and learning about React Routing.  Also getting more Vanilla Javascript Practice in with W3Code Exercises.
+
+**Link(s) to work:**  [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
 # Day 51: June 10, 2020
 
 **Today's Progress**:  Working on Flask Portfolio App. 
