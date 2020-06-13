@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+# Day 53: June 12, 2020
+
+**Today's Progress**:   React Exploration of component lifecycle methods and Flask Portfolio
+
+**Thoughts:** Continuing to build the Flask Portfolio Website and learning about React Routing and component lifecycle. Its starting to all come together to make an entire page.
+
+**Link(s) to work:**  [React Playground](https://github.com/HajaSChilds/react-playground) [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
 # Day 52: June 11, 2020
 
 **Today's Progress**:  Working on Flask Portfolio App and React Deep Dive
