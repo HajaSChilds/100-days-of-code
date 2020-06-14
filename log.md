@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 54: June 13, 2020
+
+**Today's Progress**:  React Exploration of Routing and State and Flask Portfolio
+
+**Thoughts:** Continuing to build the Flask Portfolio Website and learning about React Routing and using State effectively. Going smoothly!
+
+**Link(s) to work:**  [React Playground](https://github.com/HajaSChilds/react-playground), [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
 # Day 53: June 12, 2020
 
 **Today's Progress**:   React Exploration of component lifecycle methods and Flask Portfolio
