@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 55: June 14, 2020
+
+**Today's Progress**:  Working on the Flask Portfolio Website
+
+**Thoughts:** CSS and Flask Templates today.
+
+**Link(s) to work:**  [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
 # Day 54: June 13, 2020
 
 **Today's Progress**:  React Exploration of Routing and State and Flask Portfolio
