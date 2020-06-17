@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+
+# Day 57: June 16, 2020
+
+**Today's Progress**: Worked on a React Portfolio today, explored Routes and Slugs
+
+**Thoughts:** Making nice progress with React.  Really seeing how it makes life easier for building sites.  Starting to second guess using Flask HTML Templates to build the Flask Portfolio site.  It may be still possible to reasonably incorporate React into the project. Reviewing the possibilities.
+
+**Link(s) to work:**  [React Portfolio Website (Sample)](https://github.com/HajaSChilds/react-portfolio.git)
+
+
+
+# Day 56: June 15, 2020
+
+**Today's Progress**:  Worked on the Flask Portfolio Website only
+
+**Thoughts:** More CSS and Flask Templates today.
+
+**Link(s) to work:**  [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
+
 # Day 55: June 14, 2020
 
 **Today's Progress**:  Working on the Flask Portfolio Website
