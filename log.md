@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+# Day 58: June 17, 2020
+
+**Today's Progress**: Worked on Python Code Exercises, built a small game where you choose your answers to decide your fate. Lesson 43.
+
+**Thoughts:** Getting out of practice with Python from working on Javascript for so long. Now that I am more comfortably immersed in Javascript I don't miss it as much anymore.  Attended conferences on June 16th and June 17th so not as much coding as usual although I learned a few things.
+
+**Link(s) to work:**  [Python 3 Playground](https://github.com/HajaSChilds/python3_playground)
+
+
+
 # Day 57: June 16, 2020
 
 **Today's Progress**: Worked on a React Portfolio today, explored Routes and Slugs
