@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+# Day 59: June 18, 2020
+
+**Today's Progress**: Continued work on the React Portfolio app.  Worked on API calls and rendering data to the page using Axios. Also continued editing the Flask Portfolio project.
+
+**Thoughts:** It is great getting to the highlight of API data and React.
+
+**Link(s) to work:**  [Python 3 Playground](https://github.com/HajaSChilds/python3_playground)
+
+
+
+
 # Day 58: June 17, 2020
 
 **Today's Progress**: Worked on Python Code Exercises, built a small game where you choose your answers to decide your fate. Lesson 43.
