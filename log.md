@@ -1,14 +1,23 @@
 # 100 Days Of Code - Log
 
 
+# Day 60: June 19, 2020
+
+**Today's Progress**: Wow 60 days of coding. Worked on Flask portfolio project and React portfolio projects. Not much coding today due to conferences.
+
+**Thoughts:** Learning how to manage the data of the API in React
+
+**Link(s) to work:**  [React Portfolio Website (Sample)](https://github.com/HajaSChilds/react-portfolio.git), [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
+
 # Day 59: June 18, 2020
 
 **Today's Progress**: Continued work on the React Portfolio app.  Worked on API calls and rendering data to the page using Axios. Also continued editing the Flask Portfolio project.
 
 **Thoughts:** It is great getting to the highlight of API data and React.
 
-**Link(s) to work:**  [Python 3 Playground](https://github.com/HajaSChilds/python3_playground)
-
+**Link(s) to work:** [React Portfolio Website (Sample)](https://github.com/HajaSChilds/react-portfolio.git), [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
 
 
 
@@ -18,7 +27,7 @@
 
 **Thoughts:** Getting out of practice with Python from working on Javascript for so long. Now that I am more comfortably immersed in Javascript I don't miss it as much anymore.  Attended conferences on June 16th and June 17th so not as much coding as usual although I learned a few things.
 
-**Link(s) to work:**  [Python 3 Playground](https://github.com/HajaSChilds/python3_playground)
+**Link(s) to work:**  [Python Coding Exercises](https://github.com/HajaSChilds/python3_playground)
 
 
 
@@ -28,8 +37,7 @@
 
 **Thoughts:** Making nice progress with React.  Really seeing how it makes life easier for building sites.  Starting to second guess using Flask HTML Templates to build the Flask Portfolio site.  It may be still possible to reasonably incorporate React into the project. Reviewing the possibilities.
 
-**Link(s) to work:**  [React Portfolio Website (Sample)](https://github.com/HajaSChilds/react-portfolio.git)
-
+**Link(s) to work:**  [React Playground](https://github.com/HajaSChilds/react-playground)
 
 
 # Day 56: June 15, 2020
