@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+# Day 61: June 20, 2020
+
+**Today's Progress**: Working on adding React to the Flask Portfolio Project to make the portfolio section better, more dynamic and efficient.
+
+**Thoughts:** Super excited to add React to this Flask project.  If this goes smoothly it will be a nice formula to use going forward. Researching this, there are multiple different ways to do it, but none of them seem straightforward or smooth.  I am going with the method on this [blog](http://allynh.com/blog/adding-a-react-frontend-to-your-flask-project/).  React will be added to the Static Folder.  Flask is also serving regular html templates for the static pages as well, plus it will communicate with a database so we shall see if that will fly.
+
+**Link(s) to work:**  [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
 
 # Day 60: June 19, 2020
 
