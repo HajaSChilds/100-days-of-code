@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+# Day 62: June 21, 2020
+
+**Today's Progress**: Continuing to work on adding React to the Flask Portfolio Project. Running into a hiccup with webpack building the bundle.js file
+
+**Thoughts:** I have tried out different troubleshooting maneuvers. The React code is not rendering to the page. Based on the error code it seems the problem is with the babel-loader. There may be incompatible versions of Babel or requirements that are old.  Considering downgrading Babel to the older version.
+
+**Link(s) to work:**  [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
+
+
 # Day 61: June 20, 2020
 
 **Today's Progress**: Working on adding React to the Flask Portfolio Project to make the portfolio section better, more dynamic and efficient.
