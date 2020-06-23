@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+# Day 63: June 22, 2020
+
+**Today's Progress**: Worked on Javascript Exercises.  Started a Mongo-DB Realm based cross-platform Project for an open source project which required a complicated setup. Currently aiming to work on the web version of this platform.
+
+**Thoughts:** Javascript continues to improve.  The Mongo-DB Realm project was fun to set up following the instructions.  However, it was not intuitive that I needed to add the Realm instance to the local codebase, which is its own codebase.  This is probably because I am working for web.  That structure would seem to make more sense with the mobile environment.  It is not running yet, I have to sort out some node package incompatibilities. 
+
+**Link(s) to work:**  [Javascript Playground](https://github.com/HajaSChilds/javascript_playground) , [Open-Source MongoDB Project](https://github.com/WildAid/o-fish-realm) 
+
+
+
+
 # Day 62: June 21, 2020
 
 **Today's Progress**: Continuing to work on adding React to the Flask Portfolio Project. Running into a hiccup with webpack building the bundle.js file
