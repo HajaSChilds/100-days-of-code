@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+# Day 64: June 23, 2020
+
+**Today's Progress**: Worked on Javascript Exercises.  Refactored Javascript code for Pretty Price Project
+
+**Thoughts:** Javascript continues to improve.  The exercises are crucial. The more comfortable with higher order functions  , array functions and operators I become, the easier and more efficient it is to solve problems. Now refactoring the code - it is much cleaner and more efficient.
+
+**Link(s) to work:**  [Pretty Price Project](https://github.com/HajaSChilds/advanced-javascript-playground) 
+
+
+
+
 # Day 63: June 22, 2020
 
 **Today's Progress**: Worked on Javascript Exercises.  Started a Mongo-DB Realm based cross-platform Project for an open source project which required a complicated setup. Currently aiming to work on the web version of this platform.
