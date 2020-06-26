@@ -1,12 +1,33 @@
 # 100 Days Of Code - Log
 
+
+# Day 66: June 25, 2020
+
+**Today's Progress**: Worked on Javascript Exercises. Improved React Portfolio Website
+
+**Thoughts:** Building the React Portfolio website, I am considering another alternative  - to simply link to it from the Flask website. 
+
+**Link(s) to work:**  [React Portfolio Website](https://github.com/HajaSChilds/react-portfolio.git)
+
+
+# Day 65: June 24, 2020
+
+**Today's Progress**: Worked on Python Exercises, Javascript Exercises and the React Portfolio Project. Completed Refactored Pretty Price Project.
+
+**Thoughts:** Lots of coding today.  Python projects worked on Inheritance vs Composition.  Javascript, continued with challenges and higher order functions.  Worked on the React Portfolio Project, adding additional features.
+
+**Link(s) to work:**  [Pretty Price Project](https://github.com/HajaSChilds/advanced-javascript-playground), [React Portfolio Website (Sample)](https://github.com/HajaSChilds/react-portfolio.git), [Python Coding Exercises](https://github.com/HajaSChilds/python3_playground) 
+ 
+
+
+
 # Day 64: June 23, 2020
 
 **Today's Progress**: Worked on Javascript Exercises.  Refactored Javascript code for Pretty Price Project
 
 **Thoughts:** Javascript continues to improve.  The exercises are crucial. The more comfortable with higher order functions  , array functions and operators I become, the easier and more efficient it is to solve problems. Now refactoring the code - it is much cleaner and more efficient.
 
-**Link(s) to work:**  [Pretty Price Project](https://github.com/HajaSChilds/advanced-javascript-playground) 
+**Link(s) to work:**  [Pretty Price Project](https://github.com/HajaSChilds/advanced-javascript-playground), [React Portfolio Website (Sample)](https://github.com/HajaSChilds/react-portfolio.git),  
 
 
 
@@ -117,6 +138,7 @@
 
 **Link(s) to work:**  [React Playground](https://github.com/HajaSChilds/react-playground) [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
 
+
 # Day 52: June 11, 2020
 
 **Today's Progress**:  Working on Flask Portfolio App and React Deep Dive
@@ -124,6 +146,7 @@
 **Thoughts:** Continuing to build the Flask Portfolio Website and learning about React Routing.  Also getting more Vanilla Javascript Practice in with W3Code Exercises.
 
 **Link(s) to work:**  [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech)
+
 
 
 # Day 51: June 10, 2020
