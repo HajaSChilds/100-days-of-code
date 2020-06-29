@@ -1,6 +1,35 @@
 # 100 Days Of Code - Log
 
 
+# Day 69: June 28, 2020
+
+**Today's Progress**: Worked on React Portfolio Website and worked with SCSS Styling
+
+**Thoughts:** Building the React Portfolio website, the beauty of using Scss for styling in React...YAY!!!!
+
+**Link(s) to work:**  [React Portfolio Website](https://github.com/HajaSChilds/react-portfolio.git)
+
+
+# Day 68: June 27, 2020
+
+**Today's Progress**: Worked on building a virtual assistant in Python.  Did not commit not working code
+
+**Thoughts:** Some issues with the package module imports so the code did not run.  Will revisit.  
+
+**Link(s) to work:**  [Python Virtual Assistant](https://github.com/HajaSChilds/virtual-assistant)
+
+
+
+# Day 67: June 26, 2020
+
+**Today's Progress**: Worked on building a React Navigation Dropdown Menu in a Private React Repo
+
+**Thoughts:** Used components to build a Navigation Dropdown Menu and Hamburger Menu. It was easier to create additional components and navigate using state than to use the change in Flex direction and media queries. 
+
+**Link(s) to work:**  [Private React Repo](https://github.com/A-B-G-Inc/rdb-site )
+
+
+
 # Day 66: June 25, 2020
 
 **Today's Progress**: Worked on Javascript Exercises. Improved React Portfolio Website
