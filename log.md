@@ -1,6 +1,50 @@
 # 100 Days Of Code - Log
 
 
+# Day 74: July 3, 2020
+
+**Today's Progress**: Vanilla Javascript, Built a small weather API app for a challenge
+
+**Thoughts:** Loaded JsonP data from a weather API. Called the callback function using script and parsed the data to display on a page.
+
+**Link(s) to work:** [Simple Weather App](https://github.com/HajaSChilds/jsonp-challenge)
+
+
+# Day 73: July 2, 2020
+
+**Today's Progress**:  Started exploring React Prototyping Repo.  Started Vanilla Javascript weather API app with JsonP data.
+
+**Thoughts:** Checked out an open licensed developer tool
+
+**Link(s) to work:** [React Prototyping Tool](https://github.com/HajaSChilds/react-proto)
+ 
+
+
+# Day 72: July 1, 2020
+
+**Today's Progress**: Finished adding SCSS to a private React Repository and issued a pull request.  Started building a collaborative Python Game
+
+**Thoughts:** Worked on building a collaborative, choose your own adventure word game. Joined Python Github Organization to work on the game with a team.
+
+**Link(s) to work:** [Python Game](https://github.com/HajaSChilds/python3_playground) 
+
+
+
+# Day 71: June 30, 2020
+
+**Today's Progress**: Designing and adding SCSS to a private React Repository 
+
+**Thoughts:** Added node-sass to the npm packages.  Converted all css files to scss files.  Created a style folder and placed all scss files withing.  Created a main.scss folder and imported all scss files.  Added the main.scss file as an import to the index.js file.  This worked perfectly and all of the styles remained in place.  Also started checking out a responsive form javascript repo.
+
+
+# Day 70: June 29, 2020
+
+**Today's Progress**: Worked on designing a website prototype using Moqups and Figma.
+
+**Thoughts:** No code. 
+
+
+
 # Day 69: June 28, 2020
 
 **Today's Progress**: Worked on React Portfolio Website and worked with SCSS Styling
