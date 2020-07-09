@@ -1,6 +1,50 @@
 # 100 Days Of Code - Log
 
 
+# Day 79: July 8, 2020
+
+**Today's Progress**: Worked on building the React Portfolio App
+
+**Thoughts:** Added additional projects to be pulled from the API. Improved formatting and styles. Started adding authentication component.
+
+**Link(s) to work:** [React Portfolio](https://github.com/HajaSChilds/react-portfolio.git) 
+
+
+
+# Day 78: July 7, 2020
+
+**Today's Progress**: No coding today - had to take a break for personal reasons.
+
+
+# Day 77: July 6, 2020
+
+**Today's Progress**: Worked on building the React Portfolio App
+
+**Thoughts:** Added additional projects to be pulled from the API. Improved formatting and styles
+
+**Link(s) to work:** [React Portfolio](https://github.com/HajaSChilds/react-portfolio.git) 
+
+
+
+# Day 76: July 5, 2020
+
+**Today's Progress**: Worked on React Portfolio App. Committed last changes to weather app
+
+**Thoughts:** Added weather app to the Portfolio.
+
+**Link(s) to work:** [React Portfolio](https://github.com/HajaSChilds/react-portfolio.git), [Simple Weather App](https://github.com/HajaSChilds/jsonp-challenge)
+
+
+# Day 75: July 4, 2020
+
+**Today's Progress**: Added additional features to weather API app.
+
+**Thoughts:** Loaded JsonP data from a weather API. Called the callback function using script and parsed the data to display on a page. Added additional cities and dark mode. Made mobile responsive, added full days to the app, added temperature to the days.
+
+**Link(s) to work:** [Simple Weather App](https://github.com/HajaSChilds/jsonp-challenge)
+
+
+
 # Day 74: July 3, 2020
 
 **Today's Progress**: Vanilla Javascript, Built a small weather API app for a challenge
