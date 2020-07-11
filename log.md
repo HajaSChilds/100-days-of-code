@@ -1,6 +1,25 @@
 # 100 Days Of Code - Log
 
 
+# Day 81: July 10, 2020
+
+**Today's Progress**: Worked on improving the private Flask website portfolio app
+
+**Thoughts:** Improved Flask website app, perfected sticky menu on homepage, added media queries for mobile responsiveness.  Did accessibility checks and realized I needed more color contrast and the menus were not keyboard accessible AFTER focus.  Still working on making the menu links keyboard accessible.
+
+**Link(s) to work:** [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech) 
+
+
+
+# Day 80: July 9, 2020
+
+**Today's Progress**: Worked on building the React Portfolio App and the private Flask website portfolio app
+
+**Thoughts:** Added more features to the React Portfolio authentication component.  Improved Flask website app, realized how much more difficult it is to build certain features without React and SCSS.
+
+**Link(s) to work:** [React Portfolio](https://github.com/HajaSChilds/react-portfolio.git), [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech) 
+
+
 # Day 79: July 8, 2020
 
 **Today's Progress**: Worked on building the React Portfolio App
