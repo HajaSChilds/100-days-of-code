@@ -1,6 +1,47 @@
 # 100 Days Of Code - Log
 
 
+
+# Day 85: July 14, 2020
+
+**Today's Progress**: Worked on managing login authentication for the React Portfolio Website.  Also worked on improving the private Flask website portfolio app - perfecting the CSS on the contact page, including a form.
+
+**Thoughts:** Finally the authentication flow on React is making sense. It is similar to authentication on a mobile app, checking to determine whether the user is logged in.  React has an interesting process with having to hand down or render props(functions) to the child components from the root component of the app. 
+
+**Link(s) to work:** [React Portfolio](https://github.com/HajaSChilds/react-portfolio.git), [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech) 
+
+
+
+# Day 84: July 13, 2020
+
+**Today's Progress**: Worked mainly on improving the private Flask website portfolio app
+
+**Thoughts:** The styles on the contact page are not box model with linear relationships, so many of the elements have to use absolute positioning.  It is great to get the items where you want them to be on the page, however, I have realize it doesn't always look so great when the page moves to different sizes.  So whatever solution I come up with to put the elements in place, I have to factor in responsive web design so there is no crazy overlap or poor spacing as the page is resized. Using lots of vh and vw and % calculations instead of hard coding in px values has led to the best outcomes.
+
+**Link(s) to work:** [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech) 
+
+
+
+# Day 83: July 12, 2020
+
+**Today's Progress**: Worked on transferring information via JSON format through a Flask API.
+
+**Thoughts:** Learned about manipulating JSON data in Javascript and Python.  In Python, used the Jsonify function and in Javascript used the Stringify function.  Realized that I can always improve my understanding of what is happening as data is consumed from the JSON format in each language - going from JSON to objects and back.  
+
+**Link(s) to work:** [Flask_Json Test Playground](https://github.com/HajaSChilds/flask_json) 
+
+
+
+# Day 82: July 11, 2020
+
+**Today's Progress**: Worked on improving the private Flask website portfolio app and started some JSON API exercises using Postman.
+
+**Thoughts:** Continued with building the common menu, improved the namespace, fixed some of the CSS bugs in the styling.
+
+**Link(s) to work:** [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech), [Flask_Json Test Playground](https://github.com/HajaSChilds/flask_json)  
+
+
+
 # Day 81: July 10, 2020
 
 **Today's Progress**: Worked on improving the private Flask website portfolio app
