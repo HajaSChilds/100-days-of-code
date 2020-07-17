@@ -2,6 +2,28 @@
 
 
 
+# Day 87: July 16, 2020
+
+**Today's Progress**: Worked on learning about testing in general and Python specifically and integrating Unit Tests into my Python code for the Flask Portfolio Project.
+
+**Thoughts:** I used unittest, the built in Python testing module and it seems to be reasonably straightforward to integrate. I also read the documentation ffor unittest and for Nose2 which uses unittest's framework.  Reviewed a nice article on testing in Python Flask - [Unit Testing A Flask Application](https://www.patricksoftwareblog.com/unit-testing-a-flask-application/)
+
+**Link(s) to work:**  [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech) 
+
+
+
+
+# Day 86: July 15, 2020
+
+**Today's Progress**: Worked on completing integration of the MongoDB database with the Flask Portfolio Project
+
+**Thoughts:** Connected the database and added a collection for projects. Used a for loop in the Flask Template for the Jinja2 engine to map out the portfolio data coming from the MongoDB database.  It took a little while to remember all of the MongoDB shell commands so I had to go refresh my memory.  Now I have a nice cheat sheet to make it happen quickly.  I have likely one more collections I will add to the database - for the blog posts.  I am currently going to use Flask for the UI display since the React connection is not going smoothly.  Being able to use the jinja2 logic in the html templates has been pretty fun. I am currently using my local database, so I will eventually have to switch to an Atlas database for deployment.
+
+**Link(s) to work:**  [Flask Portfolio Website](https://github.com/HajaSChilds/thisdevlovestech) 
+
+
+
+
 # Day 85: July 14, 2020
 
 **Today's Progress**: Worked on managing login authentication for the React Portfolio Website.  Also worked on improving the private Flask website portfolio app - perfecting the CSS on the contact page, including a form.
