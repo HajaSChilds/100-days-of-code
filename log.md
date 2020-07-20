@@ -1,10 +1,38 @@
 # 100 Days Of Code - Log
 
 
+# Day 90: July 19, 2020
+
+**Today's Progress**: Worked on testing with Jest and doing Javascript exercises for Data Structures and Algorithms
+
+**Thoughts:** I used Jest to test out algorithms completed in React and vanilla Javascript.  Learned about Big O Notation and the time complexity of performing tasks using various data structures, including arrays, linked lists, hash maps in the Python language.  Also learned about basic algorithms for accomplishing specific tasks.
+
+**Link(s) to work:**  [React Simple Click-Counter](https://github.com/HajaSChilds/react-click-counter)
+
+
+# Day 89: July 18, 2020
+
+**Today's Progress**: Worked on learning more about best practices in TDD by testing React components using Jest and Enzyme
+
+**Thoughts:** Used Enzyme to expand upon the React testing feature set and the principles of Test Driven Development. Used create-react-app to start a basic project and added Enzyme.
+
+**Link(s) to work:**  [React Simple Click-Counter](https://github.com/HajaSChilds/react-click-counter)
+
+
+
+# Day 88: July 17, 2020
+
+**Today's Progress**: Worked on expanding testing with Enzyme in React
+
+**Thoughts:** Worked on building unit tests for React components using Enzyme.
+
+**Link(s) to work:** [React Simple Click-Counter](https://github.com/HajaSChilds/react-click-counter)
+
+
 
 # Day 87: July 16, 2020
 
-**Today's Progress**: Worked on learning about testing in general and Python specifically and integrating Unit Tests into my Python code for the Flask Portfolio Project.
+**Today's Progress**: Worked on learning more about testing in general and Python specifically and integrating Unit Tests into my Python code for the Flask Portfolio Project.
 
 **Thoughts:** I used unittest, the built in Python testing module and it seems to be reasonably straightforward to integrate. I also read the documentation ffor unittest and for Nose2 which uses unittest's framework.  Reviewed a nice article on testing in Python Flask - [Unit Testing A Flask Application](https://www.patricksoftwareblog.com/unit-testing-a-flask-application/)
 
