@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+# Day 93: July 22, 2020
+
+**Today's Progress**: Continued working on the Flask Portfolio Project, including adding features such as highlighting the active page and starting to refactor the code, and also worked on deploying the React Portfolio Project
+
+**Thoughts:** There are many different ways to organize Flask projects but there were choices I made in the beginning which I can see now are inefficient or redundant.  I am not going to slow progress by going back to refactor everything now, but I will start to refactor as I encounter code which can be optimized.  I have added additional directories to the project to store the code in a more clean and intuitive fashion.  I started to work on the blog page as well.  For React, I deployed the React Portfolio to a website, using the build command, it was a really smooth process. The hosting company is called Render
+
+**Link(s) to work:**  [Flask Portfolio Website Project](https://github.com/HajaSChilds/thisdevlovestech), [React Portfolio Project](https://github.com/HajaSChilds/react-portfolio.git)
+
+
+# Day 92: July 21, 2020
+
+**Today's Progress**: Worked on adding features to the Flask Portfolio Project, including adding project images from the database and setting up Jinja template logic
+
+**Thoughts:** The MongoDB database is currently being delivered from a local server but I have to figure out the least expensive way to access it for deployment.  Some of the deployment sites charge a fee for a database instance. Luckily MongoDB Atlas has free clusters for projects so I can just recreate the database in Atlas.  There are methods of migration - moving from the local server to the cloud but they are all overkill for this tiny database. I kept the number of documents small and the schema simple so it would be easy to manipulate/redo.  So switching to Atlas should not be too bad - I will have to be cognizant of security and storing the secret keys.
+
+**Link(s) to work:**  [Flask Portfolio Website Project](https://github.com/HajaSChilds/thisdevlovestech)
+
+
+# Day 91: July 20, 2020
+
+**Today's Progress**: Worked on adding features to the Flask Portfolio Project, including adding portfolio project images, referenced from the database and setting up Jinja2 template logic
+
+**Thoughts:** There are many ways that Flask is similar to React including routes, the ability to reuse and compartmentalize UI elements, and the ability to apply logic to the code and templates.  It makes this continue to be a really fun project to build - especially comparing the ways they are similar and different.  The project images were a slight challenge.  They will not be stored in the database, but they will need to be referenced on a per project basis.  Figuring out how to properly reference the image took a little time but was really rewarding to see it appear.  Now I may have to compress the images for performance.
+
+**Link(s) to work:**  [Flask Portfolio Website Project](https://github.com/HajaSChilds/thisdevlovestech)
+
 
 # Day 90: July 19, 2020
 
