@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+# Days 94 - 98: July 23 - 27, 2020
+
+**Today's Progress**: Continued working on the Flask Portfolio Project, getting ready for deployment
+
+**Thoughts:** Deploying the Flask Portfolio Project has some obstacles. The issue is that Flask is not a single page app and must run on the WSGI server. Most of the hosting companies charge a monthly subscription fee for apps which are not static sites and the instructions are not so clear for Flask.  Many require the installation of command tools to set up the environment prior to deploying, which require X-code which requires upgrade of the MacOS or purchasing a developer account(for older X-code versions).  Or finally, deploying to a Linux WSGI server like on Linode requires knowing exactly how to configure the server.  Reviewed Heroku, Render, Vercel, Firebase, AWS and decided to go with AWS Elastic Beanstalk.  The documentation is excellent, they have a free for one year tier and there are ways to deploy files which don't necessarily require downloading tools.  So I'm working on getting that up and running to hopefully finish off 100 days of code with a great site documenting all of the projects I have built. 
+
+**Link(s) to work:**  [Flask Portfolio Website Project](https://github.com/HajaSChilds/thisdevlovestech), 
+
 # Day 93: July 22, 2020
 
 **Today's Progress**: Continued working on the Flask Portfolio Project, including adding features such as highlighting the active page and starting to refactor the code, and also worked on deploying the React Portfolio Project
