@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+# Days 99 - 100: July 28 - 29, 2020
+
+**Today's Progress**: Made it to 100 Days of Code!!!!!!
+
+**Thoughts:** I am super proud of myself that I was able to accomplish this, despite all that is going on. I was hoping to deploy by the 100th day and have my site hosted on AWS with all the projects I completed as a celebration.  However, I believe I am pretty close to having the site published.  I have two major hurdles that I am trying to get past - one is getting the site deployed and the second is having the MongoDB Atlas connection live.  As far as having the site deployed, I am working with AWS Elastic Beanstalk and sending the files using GitHub Actions which is pretty interesting.   The flow is sending the file to an Amazon S3 bucket, then deploying the bucket to the EC2 instance running Python in Elastic Beanstalk.  Its all very fun and exciting to watch but the site has not been served correctly.  All in all, I am pretty close to deploying and have finished a nice score of projects to present in the portfolio once it is up and running.  Congratulations to me...Yay!!!!
+
+**Link(s) to work:**  [Flask Portfolio Website Project](https://github.com/HajaSChilds/thisdevlovestech)
+
+
+
 # Days 94 - 98: July 23 - 27, 2020
 
 **Today's Progress**: Continued working on the Flask Portfolio Project, getting ready for deployment
