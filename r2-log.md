@@ -1,0 +1,13 @@
+# #100DaysOfCode Log - Round 2 - Haja C
+> The official log of my #100DaysOfCode challenge. **Started on September 21, 2020**.
+
+![100 Days of Code MacBook](https://dl.airtable.com/.attachmentThumbnails/d6d7b268b6ff38bb0d54a7fafec85f2a/528f5fd6)
+
+
+
+## Log
+
+### R2D1 - 9/21/20
+Worked on a **[React js Portfolio](https://github.com/HajaSChilds/React-Portfolio)**, adding the portfolio manager CRUD features using Dropzone Library. Also worked on a money trivia **[Mini-Web App](https://github.com/HajaSChilds/talk-money-app-frontend)** built with React Js Front End and Python Flask Backend.
+
+
