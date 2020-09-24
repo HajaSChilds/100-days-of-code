@@ -13,3 +13,6 @@ Worked on a **[React js Portfolio](https://github.com/HajaSChilds/React-Portfoli
 ### R2D2 - 9/22/2020
 Worked on developing a **[Gatsby Js](https://github.com/HajaSChilds/gatsby-dev-shop)** site with React, using a Shopify backend.
 
+### R2D3 - 9/23/2020
+
+Worked on the Python backend of the **[React/Python Mini - Web app](https://github.com/HajaSChilds/talk-money-app-frontend)**
