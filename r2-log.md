@@ -16,3 +16,7 @@ Worked on developing a **[Gatsby Js](https://github.com/HajaSChilds/gatsby-dev-s
 ### R2D3 - 9/23/2020
 
 Worked on the Python backend of the **[React/Python Mini - Web app](https://github.com/HajaSChilds/talk-money-app-frontend)**
+
+### R2D4 - 9/24/2020
+
+Worked on both the React frontend and the Python backend of the **[React/Python Mini - Web app](https://github.com/HajaSChilds/talk-money-app-frontend)**
