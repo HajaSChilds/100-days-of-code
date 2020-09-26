@@ -11,7 +11,7 @@
 Worked on a **[React js Portfolio](https://github.com/HajaSChilds/React-Portfolio)**, adding the portfolio manager CRUD features using Dropzone Library. Also worked on a money trivia **[Mini-Web App](https://github.com/HajaSChilds/talk-money-app-frontend)** built with React Js Front End and Python Flask Backend.
 
 ### R2D2 - 9/22/2020
-Worked on developing a **[Gatsby Js](https://github.com/HajaSChilds/gatsby-dev-shop)** site with React, using a Shopify backend.
+Worked on developing a **[Gatsby](https://github.com/HajaSChilds/gatsby-dev-shop)** site with React, using a Shopify backend.
 
 ### R2D3 - 9/23/2020
 
@@ -20,3 +20,7 @@ Worked on the Python backend of the **[React/Python Mini - Web app](https://gith
 ### R2D4 - 9/24/2020
 
 Worked on both the React frontend and the Python backend of the **[React/Python Mini - Web app](https://github.com/HajaSChilds/talk-money-app-frontend)**
+
+### R2D5 - 9/25/2020
+
+Worked on a project with **[Gatsby](https://github.com/HajaSChilds/gatsby-dev-shop)**, React Js, Styled Components and GraphQL.
