@@ -32,3 +32,7 @@ Worked on a project with **[Gatsby](https://github.com/HajaSChilds/gatsby-dev-sh
 ### R2D7 - 9/27/2020
 
 Worked on a project with **[Gatsby](https://github.com/HajaSChilds/gatsby-dev-shop)**. Read and learned about GraphQL.  Watched this video - [GraphQL at AWS Summit](https://youtu.be/bRnu7xvU1_Y)
+
+### R2D8 - 9//28/2020
+
+Worked on a project with  **[Gatsby](https://github.com/HajaSChilds/gatsby-dev-shop)**., React Hooks, Material-UI, and styled-components.
