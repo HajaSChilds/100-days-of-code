@@ -24,3 +24,11 @@ Worked on both the React frontend and the Python backend of the **[React/Python 
 ### R2D5 - 9/25/2020
 
 Worked on a project with **[Gatsby](https://github.com/HajaSChilds/gatsby-dev-shop)**, React Js, Styled Components and GraphQL.
+
+### R2D6 - 9/26/2020
+
+Worked on a project with **[Gatsby](https://github.com/HajaSChilds/gatsby-dev-shop)**, React Js, Styled Components and GraphQL. Worked on the React frontendthe **[React/Python Mini - Web app] 
+
+### R2D7 - 9/27/2020
+
+Worked on a project with **[Gatsby](https://github.com/HajaSChilds/gatsby-dev-shop)**. Read and learned about GraphQL.  Watched this video - [GraphQL at AWS Summit](https://youtu.be/bRnu7xvU1_Y)
